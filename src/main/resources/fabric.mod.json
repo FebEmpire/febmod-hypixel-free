@@ -3,9 +3,9 @@
 	"id": "febmod-hypixel-free",
 	"version": "${version}",
 	"name": "febmod-hypixel-free",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "FebMod but free",
 	"authors": [
-		"Me!"
+		"Februari10"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
